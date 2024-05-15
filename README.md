@@ -4,4 +4,4 @@ Python project Analyze Diwali sales data to improve customer experience and sale
 
 
 
-![Gender](https://github.com/YeasirArafatRatul/sales_data_analysis_python/tree/master/Screenshots/gender.png?raw=true)
+![Gender](https://github.com/YeasirArafatRatul/sales_data_analysis_python/blob/master/Screenshots/gender.png?raw=true)
